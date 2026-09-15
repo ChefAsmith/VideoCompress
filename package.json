@@ -1,0 +1,16 @@
+{
+  "name": "videocompress",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "electron": "^35.1.5",
+    "fast-glob": "^3.3.3"
+  }
+}
